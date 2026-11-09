@@ -1,0 +1,19 @@
+# Human Sadid Bonyan Trade Holding — Netlify configuration
+# https://www.netlify.com — static publish, no build step.
+
+[build]
+  publish = "."
+  command = ""
+
+# Clean URLs: /about → /about.html (optional; site links use .html directly)
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

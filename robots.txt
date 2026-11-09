@@ -1,0 +1,11 @@
+# Human Sadid Bonyan Trade Holding — robots.txt
+# Production domain: https://ramingol1-debug.github.io
+
+User-agent: *
+Allow: /
+
+# No private or generated assets
+Disallow: /lang/_en_part
+Disallow: /scripts/
+
+Sitemap: https://ramingol1-debug.github.io/sitemap.xml

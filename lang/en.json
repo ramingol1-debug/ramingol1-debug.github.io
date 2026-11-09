@@ -1,0 +1,1658 @@
+{
+  "a": {
+    "msgPh": "Cargo, route, quantity, and any other important detail"
+  },
+  "a11y": {
+    "menu": "Menu",
+    "skip": "Skip to main content",
+    "top": "Top"
+  },
+  "about": {
+    "cta": {
+      "desc": "Our specialists are ready to design the best route and schedule for your cargo.",
+      "title": "Have a transport or import project?"
+    },
+    "group": {
+      "c1": "Multimodal land, rail, road and sea transport",
+      "c2": "Container terminal, handling and warehousing in Bandar Abbas",
+      "c3": "Bulk cargo handling and warehousing",
+      "c4": "Trade and investment in the markets of Iran, Iraq and neighboring countries",
+      "c5": "Trade development with Pakistan, Turkmenistan, Uzbekistan, Turkey, the UAE and Afghanistan",
+      "c6": "Rail and road unloading, loading and warehousing hub in the Sarakhs Free Zone",
+      "c6t": "Sarakhs Logistics Center",
+      "eyebrow": "Group structure",
+      "sub": "Each company operates with its own expertise and licenses, all guided by a single headquarters.",
+      "title": "Operating subsidiaries"
+    },
+    "hero": {
+      "sub": "An operational group bringing transport, terminal, warehousing and international trade under one management umbrella.",
+      "title": "About Human Sadid Bonyan Trade Holding"
+    },
+    "how": {
+      "eyebrow": "How we work",
+      "s1": "Cargo details, origin and destination, Incoterms and time window are recorded via the form, phone or chat.",
+      "s1t": "Request received",
+      "s2": "The optimal route, wagon/container type, cost, schedule and insurance coverage are proposed and confirmed.",
+      "s2t": "Planning and pricing",
+      "s3": "Transport, terminal and warehouse operations are executed and status reported regularly.",
+      "s3t": "Execution and tracking",
+      "s4": "Cargo delivered, final documents settled, transparent invoice issued and customer feedback recorded.",
+      "s4t": "Delivery and closing",
+      "title": "From request to delivery, in four steps"
+    },
+    "values": {
+      "eyebrow": "Values",
+      "title": "The principles we work by",
+      "v1": "Price and terms are transparent from day one; a commitment given is a commitment kept.",
+      "v1t": "Contractual integrity",
+      "v2": "Realistic schedules are set and cargo status is reported transparently.",
+      "v2t": "Punctuality",
+      "v3": "Standard operating procedures keep the work moving fast, without redundant red tape.",
+      "v3t": "Speed with accuracy",
+      "v4": "We are not after one-off deals; lasting trade relationships are our main capital.",
+      "v4t": "Long-term partnership"
+    },
+    "who": {
+      "badge": "Commitment to quality, safety and delivery time",
+      "eyebrow": "Who we are",
+      "f1": "Road, rail and sea transport combined for the optimal route and cost",
+      "f1t": "Multimodal management:",
+      "f2": "Incoterms, insurance conditions and customs requirements observed in every contract",
+      "f2t": "Compliance and contracting:",
+      "f3": "An operational network across Iran, Iraq and neighboring countries",
+      "f3t": "Regional access:",
+      "imgAlt": "Operations team preparing cargo in a warehouse",
+      "p1": "Human Sadid Bonyan Trade Holding was established to organize the international supply chain: specialized companies in multimodal transport, Bandar Abbas terminal operations, bulk warehousing and trade with regional markets — all serving customers under one shared strategy and a single point of contact.",
+      "p2": "Our approach is simple: every shipment gets a dedicated file, and a case owner follows the shipping terms (Incoterms, route, schedule, insurance) from the first day to final delivery. The customer has one phone number, one status report and one transparent time commitment.",
+      "title": "From origin to destination, a single responsibility"
+    }
+  },
+  "af": {
+    "ae": {
+      "d": "Sea trade with Jebel Ali and Sharjah ports; distribution of Iranian goods in the Gulf market and sourcing imports through the UAE.",
+      "t": "Trade with the UAE"
+    },
+    "af": {
+      "d": "Export of foodstuffs, construction materials and petrochemical products via the Milak–Zaranj, Islam Qala–Deh Sabz and Hairatan crossings; import of agricultural products and handicrafts.",
+      "t": "Trade with Afghanistan"
+    },
+    "form": {
+      "eyebrow": "Partnership request",
+      "sub": "Select your country and request type to be connected with the specialist for that route.",
+      "submit": "Send request",
+      "title": "Customer and partner request form"
+    },
+    "grid": {
+      "eyebrow": "Activities by country",
+      "sub": "Each affiliated company, knowing the local market and regulations, facilitates import, export and trade logistics in its country.",
+      "title": "Six countries, six target markets"
+    },
+    "hero": {
+      "cta": "Submit partnership request",
+      "sub": "Companies active in developing trade between Iran and Pakistan, Turkmenistan, Uzbekistan, Turkey, the United Arab Emirates and Afghanistan.",
+      "title": "Affiliated companies — a regional trade network"
+    },
+    "notice": "Before publication: the exact legal names, scope of activity and licenses of each affiliated company must be approved by group management and replace these general descriptions.",
+    "pk": {
+      "d": "Export of petrochemical, food and industrial products to Karachi and Gwadar ports and import of basic goods from Pakistan; coordination with traders in Karachi, Lahore and Bandar Abbas.",
+      "t": "Trade with Pakistan"
+    },
+    "tag1": "Export",
+    "tag2": "Import",
+    "tag3": "Sea",
+    "tag4": "Rail",
+    "tag5": "Transit",
+    "tag6": "Road",
+    "tag7": "Consolidation",
+    "tm": {
+      "d": "Rail and land transport via the Sarakhs–Serdar border and trade in construction, food and agricultural materials with Ashgabat and Mary.",
+      "t": "Trade with Turkmenistan"
+    },
+    "tr": {
+      "d": "Goods exchange via the Razi–Kapıköy rail corridor and the Bazırgan–Gürbulak road crossing; export of petrochemicals and import of machinery and industrial raw materials.",
+      "t": "Trade with Turkey"
+    },
+    "uz": {
+      "d": "Access to the Central Asian market through Turkmenistan transit routes; export of materials and foodstuffs and import of cotton and agricultural products.",
+      "t": "Trade with Uzbekistan"
+    }
+  },
+  "brand": {
+    "name": "Human Sadid Bonyan Trade Holding",
+    "tagline": "International Transport, Trade & Logistics"
+  },
+  "careers": {
+    "about": {
+      "desc": "Working at Human Sadid Bonyan Trade Holding means daily contact with real markets: negotiating with traders, planning wagons and vessels, solving customs issues and coordinating operations at ports and borders.",
+      "eyebrow": "Why our group",
+      "f1": "Hands-on learning from contracts and international trade procedures",
+      "f2": "Working with technical, operational and commercial teams",
+      "f3": "Exposure to international projects on regional corridors",
+      "imgAlt": "Professional team collaborating and reaching an agreement",
+      "title": "An environment to grow in trade and logistics"
+    },
+    "apply": "Send your CV by email",
+    "hero": {
+      "sub": "If you have experience in international transport, trade, customs or port operations, your place is here.",
+      "title": "Join our team"
+    },
+    "j1": {
+      "loc": "Bandar Abbas"
+    },
+    "j1d": "Coordinating container unloading and loading, crane shift planning, daily reporting and liaison with shipping lines.",
+    "j1m1": "Full-time",
+    "j1m2": "2 years of experience",
+    "j1t": "Terminal Operations Specialist",
+    "j2": {
+      "loc": "Mashhad / Sarakhs"
+    },
+    "j2d": "Wagon booking, border interchange coordination, transit document follow-up and liaison with Turkmen and Central Asian partners.",
+    "j2m2": "3 years of experience",
+    "j2t": "Rail Freight & Transit Specialist",
+    "j3": {
+      "loc": "Remote / Tehran"
+    },
+    "j3d": "Finding customers, following up transport requests, preparing proforma invoices and coordinating with the operations team to deliver commitments.",
+    "j3m1": "Part-time / Full-time",
+    "j3m2": "Open",
+    "j3t": "International Sales Specialist",
+    "jobs": {
+      "eyebrow": "Open positions",
+      "sub": "Applications are reviewed on a rolling basis; send your CV for these roles or other specialties.",
+      "title": "Careers in key areas"
+    },
+    "notice": "The list above is a sample; before publication, real positions and employment conditions must be approved by HR management and substituted."
+  },
+  "cert": {
+    "c1d": "Standard order-to-delivery process, complaint registration and continuous improvement of transport and warehousing services.",
+    "c1t": "ISO 9001 — Quality Management",
+    "c2d": "Risk control in terminal yards, warehouses and handling operations with personal protective equipment.",
+    "c2t": "ISO 45001 — Occupational Health & Safety",
+    "c3d": "Reducing the environmental impact of handling operations, waste management and energy consumption.",
+    "c3t": "ISO 14001 — Environment",
+    "c4d": "Transport operating licenses, transit coding and trade-association memberships relevant to the group companies.",
+    "c4t": "Transport & Transit Licenses",
+    "c5d": "Cargo Insurance policies with ICC terms and carrier liability coverage.",
+    "c5t": "Cargo Insurance Coverage",
+    "c6d": "Observance of sanctions regulations, export restrictions and customs requirements in every trade file.",
+    "c6t": "Import/Export Compliance",
+    "cta": {
+      "desc": "Request copies of the certificates, policies and licenses relevant to your contract.",
+      "title": "Need copies of our documents?"
+    },
+    "hero": {
+      "sub": "Quality, safety and compliance — the frameworks our daily operations stand on.",
+      "title": "Certificates & Documents"
+    },
+    "notice": "Important note before publication: only genuine, valid certificates and licenses may be listed here. The current version is a sample framework and must be replaced with scans of real documents and their validity dates."
+  },
+  "clients": {
+    "cta": {
+      "desc": "Tell us about your transport, warehousing or trade need; the initial consultation is free.",
+      "title": "Join our list of clients"
+    },
+    "hero": {
+      "sub": "From traders to factories and large importers — trust that has lasted for years.",
+      "title": "Our Clients & Partners"
+    },
+    "logos": {
+      "eyebrow": "Our partners",
+      "sub": "The logos below are placeholders; before publication replace them with real logos used with the owners' permission.",
+      "title": "Brands and partners who trust us"
+    },
+    "notice": "Note before publication: client logos and names may only be published with written permission; otherwise this section must be removed or replaced with general industry categories.",
+    "t1": {
+      "loc": "Razavi Khorasan",
+      "name": "Logistics Manager, a chemical fertilizer plant",
+      "text": "Our sulfur shipment moved from origin to destination without a single day of delay, and the regular wagon status reports really made the job easier."
+    },
+    "t2": {
+      "loc": "Tehran",
+      "name": "Import Manager, a food company",
+      "text": "The Bandar Abbas terminal handled our reefer cargo very professionally; shipping-line coordination and warehouse delivery were excellent."
+    },
+    "t3": {
+      "loc": "Sarakhs",
+      "name": "Cargo owner, trading company",
+      "text": "The Turkmenistan transit file was closed with accurate documents and daily follow-up; working with this team was reliable."
+    },
+    "testi": {
+      "eyebrow": "Experience of working together",
+      "title": "What our clients say"
+    },
+    "testiNotice": "Sample text; before publication replace with real, approved client testimonials."
+  },
+  "config": {
+    "address": "Office address — Tehran (to be completed before publication)"
+  },
+  "contact": {
+    "form": {
+      "sub": "The form below is also delivered to the specialist's email.",
+      "title": "Contact form"
+    },
+    "hero": {
+      "sub": "Submit your transport request, price inquiry or logistics consultation; we reply within 24 business hours.",
+      "title": "Contact Us"
+    },
+    "hours": {
+      "value": "Saturday to Thursday, 8:30 – 17:30"
+    },
+    "info": {
+      "address": "Head office",
+      "email": "Email",
+      "eyebrow": "Ways to reach us",
+      "hours": "Working hours",
+      "phone": "Phone & WhatsApp",
+      "telegram": "Telegram",
+      "title": "We are available to you"
+    },
+    "subject1": "Transport request",
+    "subject2": "Terminal & warehousing services",
+    "subject3": "Trade & commerce",
+    "subject4": "Sarakhs Free Zone",
+    "subject5": "Other"
+  },
+  "country": {
+    "ae": "United Arab Emirates",
+    "af": "Afghanistan",
+    "iq": "Iraq",
+    "ir": "Iran",
+    "pk": "Pakistan",
+    "tm": "Turkmenistan",
+    "tr": "Turkey",
+    "uz": "Uzbekistan"
+  },
+  "cta": {
+    "chat": "Chat with a specialist",
+    "chatShort": "Chat",
+    "telegram": "Telegram",
+    "whatsapp": "WhatsApp"
+  },
+  "dr": {
+    "f": {
+      "g1": "1. Applicant information",
+      "g2": "2. Route and schedule",
+      "g3": "3. Cargo specifications",
+      "g4": "4. Insurance, attachments and notes"
+    },
+    "form": {
+      "eyebrow": "Transport request",
+      "lawsLink": "Incoterms 2020 guide",
+      "sub": "The more precise the details, the faster and clearer the quote. Reply within 24 business hours.",
+      "submit": "Submit transport request",
+      "title": "International freight order form"
+    },
+    "hero": {
+      "cta": "Submit transport request",
+      "sub": "Multimodal land, rail, road and sea transport; from origin to destination without a break in the supply chain.",
+      "title": "Daryadaran Tous Shipping Company"
+    },
+    "intro": {
+      "badge": "Multimodal: land + rail + sea",
+      "desc": "Daryadaran Tous moves your cargo on international corridors between Iran, China, the CIS and Iraq by combining road, rail, sea and shipping services. Wagon planning, container booking, border transit and final delivery are handled by one team so that accountability from origin to destination has a single point of reference.",
+      "eyebrow": "About Daryadaran Tous",
+      "f1": "Rail transport of bulk and container wagons on CIS corridors",
+      "f2": "Combined road transport for routes without direct rail coverage",
+      "f3": "Sea and container shipping from Iranian and Chinese ports",
+      "f4": "Cargo insurance coverage and regular shipment status updates",
+      "imgAlt": "Containers on rail wagons on an international transport route",
+      "title": "One chain, four modes of transport"
+    },
+    "services": {
+      "eyebrow": "Services & routes",
+      "title": "What do we carry, and where to?"
+    },
+    "stats": {
+      "eyebrow": "Nominal annual capacity",
+      "notice": "Note before publication: these figures were declared by the client; before publication they must be reconciled with the company's actual annual performance statistics and approved.",
+      "s1": "tons of sulfur per year",
+      "s2": "wagons from the CIS region per year",
+      "s3": "containers from China per year",
+      "sub": "Internal, verifiable documents before final publication; these figures are recorded based on the company's declared capacity.",
+      "title": "Daryadaran Tous operational scale"
+    },
+    "step1": {
+      "d": "Enter your cargo and route details in the form below, or give us a call.",
+      "t": "Submit request"
+    },
+    "step2": {
+      "d": "Wagon/container capacity is checked and a formal proforma invoice with an execution date is issued.",
+      "t": "Quote & plan"
+    },
+    "step3": {
+      "d": "Loading, border crossing and movement are carried out, with status reported regularly.",
+      "t": "Execution & tracking"
+    },
+    "step4": {
+      "d": "Delivery at destination, document settlement and file archiving for future orders.",
+      "t": "Delivery & closing"
+    },
+    "steps": {
+      "eyebrow": "Order process",
+      "title": "Shipping an order in four steps"
+    },
+    "svc1": {
+      "d": "Sulfur, concentrate, iron ore, cement and fertilizers carried in hopper wagons with suitable unloading equipment at destination.",
+      "t": "Mineral & chemical bulk"
+    },
+    "svc2": {
+      "d": "Container space booked from Chinese ports, sea freight, and inland delivery to the destination warehouse in Iran.",
+      "t": "China to Iran containers"
+    },
+    "svc3": {
+      "d": "Thousands of wagons moved annually from the CIS region with border interchange coordination.",
+      "t": "CIS wagons"
+    },
+    "svc4": {
+      "d": "Trucks completing the first and last mile, or routes without a direct rail connection.",
+      "t": "Combined road transport"
+    },
+    "svc5": {
+      "d": "Transit corridors to Iraq, Pakistan, Turkmenistan, Uzbekistan and Afghanistan via land and rail borders.",
+      "t": "Transit corridors"
+    },
+    "svc6": {
+      "d": "Cargo insurance, bills of lading, transit documents and customs paperwork prepared for every shipping file.",
+      "t": "Insurance & documents"
+    }
+  },
+  "faq": {
+    "a1": "Fill in the request form on the relevant company page (Daryadaran Tous for transport, Harmoniza Hormoz Arian for terminal, Hami Hamrah Jonoub for bulk, Naghel Al-Sud for trade), call 09153143647, or leave a message in the live chat. We reply within 24 business hours.",
+    "a10": "Rates are quoted based on cargo type, weight/volume, route, equipment type (wagon, container, truck), season, port/terminal charges and Incoterms. The formal proforma invoice includes all cost items and becomes binding once you confirm it.",
+    "a2": "Identity or company details (national ID or registration number), contact information, origin and destination, cargo type and weight, Incoterms, and a packing list and proforma invoice if available. For special cargoes, technical and insurance documents are also requested.",
+    "a3": "Yes. Cargo insurance can be arranged under standard Institute Cargo Clauses (ICC A, B or C) for the value of the goods (CIF/CFR + 10%), and its conditions are included in the contract before execution. We recommend full-value cover for high-value shipments.",
+    "a4": "Yes. A dedicated specialist is assigned to every file, and the cargo status (loading, border crossing, terminal entry, unloading, delivery) is reported regularly by SMS, email or messenger.",
+    "a5": "Depending on the cooperation model: advance payment on order, documentary credit (L/C) or telegraphic transfer (T/T) for foreign trade, and staged invoicing for logistics projects. Details are stated in the formal proforma invoice.",
+    "a6": "Incoterms are the international standard defining seller and buyer responsibilities in delivery. The right choice depends on the route, mode of transport and how much control you want over the supply chain; the full guide is in the Incoterms 2020 chapter, and our specialist can recommend the best option for your cargo.",
+    "a7": "Yes, in compliance with IMDG (sea), ADR/RID (road/rail) regulations and using suitable equipment (reefer containers, insulated wagons). Safety Data Sheets (MSDS) and cargo classification are reviewed before acceptance.",
+    "a8": "Yes. The “Chat with a specialist” button is active on every page; during working hours you get an online reply, and outside working hours you can leave a message and your contact details so we can call you back. Every chat message is also emailed to the specialist.",
+    "a9": "Our main corridors include Iraq, Pakistan, Turkmenistan, Uzbekistan, Turkey, the United Arab Emirates and Afghanistan, plus shipping lines from China and rail transport from the CIS region. For details on each route, visit the Affiliated Companies page.",
+    "hero": {
+      "sub": "Quick answers to the most common customer questions; if you can't find yours, talk to us directly.",
+      "title": "Frequently Asked Questions"
+    },
+    "notice": "These answers are for general information only and do not constitute legal or contractual advice; for your specific conditions, always consult our specialists.",
+    "q1": "How do I place a transport request?",
+    "q10": "How is the freight cost calculated?",
+    "q2": "What documents are needed to place a request?",
+    "q3": "Is cargo insurance available?",
+    "q4": "Can I track my shipment?",
+    "q5": "What are the payment terms?",
+    "q6": "What are Incoterms and which one should I choose?",
+    "q7": "Do you carry hazardous and temperature-sensitive cargo?",
+    "q8": "Can I chat online with a specialist?",
+    "q9": "Which countries and routes do you work with?"
+  },
+  "field": {
+    "attachments": "Attachments (packing list / proforma invoice)",
+    "attachmentsHint": "Up to 5 MB in total",
+    "cargoDesc": "Cargo description",
+    "cargoType": "Cargo type",
+    "cargoTypePh": "e.g. sulfur, cement, machinery",
+    "choose": "Please select",
+    "company": "Company / person name",
+    "companyPh": "If applicable",
+    "companyPh2": "Company name or personal name",
+    "companyReq": "Company / person name",
+    "consent": "I agree with the privacy policy.",
+    "contactPerson": "Contact person",
+    "contactPersonPh": "Name of the person in charge",
+    "containerType": "Container type",
+    "country": "Country",
+    "countryTarget": "Target country",
+    "dateFrom": "Expected loading date",
+    "dateTo": "Latest delivery date",
+    "destination": "Destination",
+    "destPh": "Destination city / port / station",
+    "email": "Email",
+    "hazardous": "Hazardous goods (IMDG/ADR)",
+    "hsCode": "HS code",
+    "hsCodePh": "8 digits (if applicable)",
+    "incoterms": "Incoterms",
+    "ins1": "Yes, full value",
+    "ins2": "Yes, basic (ICC C)",
+    "ins3": "No",
+    "ins4": "Please advise",
+    "insurance": "Cargo insurance required",
+    "message": "Your message",
+    "messagePh": "Write your request, question or cargo details",
+    "messageReq": "Request description",
+    "mode1": "Multimodal (our recommendation)",
+    "mode2": "Rail",
+    "mode3": "Road",
+    "mode4": "Sea",
+    "name": "Full name",
+    "namePh": "Enter your name",
+    "notContainer": "Not needed",
+    "notes": "Additional notes",
+    "notesPh": "Special conditions, time limits, unloading location, etc.",
+    "notWagon": "Not needed",
+    "optionalPh": "If applicable",
+    "origin": "Origin",
+    "originPh": "Origin city / port / station",
+    "other": "Other",
+    "otherCountry": "Other / multiple countries",
+    "otherIncoterm": "Other / need advice",
+    "packages": "Packages / pallets",
+    "packaging": "Packaging type",
+    "packagingPh": "Bag, jumbo bag, pallet, bulk loose…",
+    "pay1": "Telegraphic transfer (T/T)",
+    "pay2": "Letter of credit (L/C)",
+    "pay3": "Documents against payment (D/P)",
+    "pay4": "Credit / installments",
+    "pay5": "Negotiable",
+    "paymentTerms": "Payment terms",
+    "phone": "Phone number",
+    "product": "Product / request",
+    "quantity": "Quantity",
+    "quantityTons": "Quantity (tons)",
+    "reefer": "Reefer",
+    "regId": "National ID / registration no.",
+    "regIdPh": "National ID or company registration number",
+    "req1": "Buy / source goods",
+    "req2": "Sell / export goods",
+    "req3": "Trade partnership",
+    "req4": "Investment",
+    "req5": "Transport request",
+    "req6": "Agency / representative",
+    "requestType": "Request type",
+    "specs": "Technical specs / description",
+    "subject": "Subject",
+    "subjectPh": "Please select",
+    "submit": "Send message",
+    "tempControl": "Temperature control / reefer",
+    "transportMode": "Preferred mode of transport",
+    "volume": "Volume (m³)",
+    "wagon1": "Open",
+    "wagon2": "Covered",
+    "wagon3": "Hopper",
+    "wagon4": "Tank",
+    "wagon5": "Flat rack",
+    "wagonType": "Wagon type",
+    "weight": "Weight (tons)",
+    "weightPh": "e.g. 250"
+  },
+  "footer": {
+    "about": "A specialized holding for international transport, trade and logistics with a network of operating companies in Bandar Abbas, Sarakhs and Iraq.",
+    "colCompany": "Group companies",
+    "colContact": "Contact us",
+    "colLinks": "Quick links",
+    "newsDesc": "Get the latest trade and logistics news.",
+    "newsTitle": "Newsletter",
+    "rights": "Human Sadid Bonyan Trade Holding — All rights reserved.",
+    "telegram": "Telegram"
+  },
+  "forms": {
+    "newsletter": {
+      "btn": "Subscribe",
+      "label": "Your email",
+      "ph": "Your email"
+    }
+  },
+  "gallery": {
+    "g1": {
+      "alt": "Aerial view of a container port with ships and cranes",
+      "cap": "Container port operations"
+    },
+    "g2": {
+      "alt": "Port gantry cranes loading containers",
+      "cap": "Gantry crane loading"
+    },
+    "g3": {
+      "alt": "Freight train carrying cargo containers on the rails",
+      "cap": "Container rail transport"
+    },
+    "g4": {
+      "alt": "Cargo ship crossing the sea",
+      "cap": "International shipping"
+    },
+    "g5": {
+      "alt": "Heavy freight trucks on a road transport route",
+      "cap": "International road freight"
+    },
+    "g6": {
+      "alt": "Warehouse staff managing incoming goods",
+      "cap": "Warehousing operations"
+    },
+    "g7": {
+      "alt": "Grain storage silos in a port yard",
+      "cap": "Grain and bulk storage"
+    },
+    "g8": {
+      "alt": "Cement bags ready for loading and storage",
+      "cap": "Cement transport and storage"
+    },
+    "g9": {
+      "alt": "Moored ship at a port quay during loading",
+      "cap": "Ship loading at the quay"
+    },
+    "hero": {
+      "sub": "See the group's port, rail, road and warehousing operations up close.",
+      "title": "Photo Gallery"
+    },
+    "notice": "Current images are from free sources (Pexels/Unsplash); before publication, replace them with the group's own operation and facility photos and verify usage rights.",
+    "projectsCta": "Our projects"
+  },
+  "hm": {
+    "c1": {
+      "d": "Wheat, barley, corn and soybeans with hygienic unloading and silo/warehouse storage.",
+      "t": "Grains & animal feed"
+    },
+    "c2": {
+      "d": "Sulfur loading and unloading with proper safety regulations and ventilation.",
+      "t": "Sulfur"
+    },
+    "c3": {
+      "d": "Bulk cement operations with covered storage protected from moisture and rain.",
+      "t": "Cement & clinker"
+    },
+    "c4": {
+      "d": "Concentrate, iron ore and minerals for export and import.",
+      "t": "Minerals"
+    },
+    "cargo": {
+      "eyebrow": "Accepted cargo",
+      "title": "Which bulk commodities do we handle?"
+    },
+    "cargo1": "Grains & animal feed",
+    "cargo2": "Sulfur",
+    "cargo3": "Cement & clinker",
+    "cargo4": "Minerals",
+    "cargo5": "Chemical fertilizers",
+    "f": {
+      "g1": "1. Applicant information",
+      "g2": "2. Cargo specifications"
+    },
+    "field": {
+      "dateFrom": "Expected start date",
+      "dateTo": "Expected end date",
+      "method": "Handling method",
+      "notesPh": "Unloading conditions, time limits, sampling needs, etc.",
+      "storage": "Storage period (days)",
+      "unit": "Receiving unit",
+      "vehicle": "Vessel / wagon / truck details",
+      "vehiclePh": "Vessel name, wagon number or plate"
+    },
+    "form": {
+      "eyebrow": "Request",
+      "sub": "After the request is registered, an operations specialist provides the plan and rate within 24 business hours.",
+      "submit": "Submit operations request",
+      "title": "Bulk unloading, loading and storage request form"
+    },
+    "hero": {
+      "cta": "Request bulk operations",
+      "sub": "Unloading, loading and storage of grains, sulfur, cement and minerals with proper equipment and an experienced operations team.",
+      "title": "Hami Hamrah Jonoub — Bandar Abbas bulk cargo operations"
+    },
+    "intro": {
+      "badge": "Grains • Sulfur • Cement • Minerals",
+      "desc": "Hami Hamrah Jonoub focuses on bulk cargo operations in Bandar Abbas: discharging bulk carriers with pneumatic and conveyor equipment, loading wagons and trucks, and storing goods in covered and open yards. The Shahid Rajaee Port Complex, with more than 462,000 m³ of warehousing space and bulk yards, provides the core infrastructure for these operations in southern Iran.",
+      "eyebrow": "About us",
+      "f1": "Grain unloading with pneumatic and conveyor systems to preserve quality",
+      "f2": "Direct wagon and truck loading in the port yard",
+      "f3": "Covered storage for cement and moisture-sensitive cargo",
+      "f4": "Sampling, weighing and cargo soundness certificates at delivery",
+      "imgAlt": "Silos and grain storage facilities in a port yard",
+      "title": "Bulk processes, from vessel to warehouse"
+    },
+    "linkContainer": "Container services (Harmoniza Hormoz Arian)",
+    "m1": "Unload to warehouse",
+    "m2": "Load from warehouse",
+    "m3": "Transship (vessel to wagon/truck)",
+    "m4": "Storage only",
+    "notice": "Before publication: the company's unloading capacities (tons per hour), equipment counts and warehouse levels must be approved by operations management and substituted; port statistics are cited from public sources.",
+    "step1": {
+      "d": "Cargo type, volume and timing declared; shifts and equipment assigned.",
+      "t": "Intake & planning"
+    },
+    "step2": {
+      "d": "Vessel unloading with suitable equipment, with cargo soundness and weight monitored.",
+      "t": "Unloading"
+    },
+    "step3": {
+      "d": "Delivery into warehouse/silo, count recorded and held until release order.",
+      "t": "Storage"
+    },
+    "step4": {
+      "d": "Wagon/truck loading, weighing, delivery and issuance of related documents.",
+      "t": "Loading & delivery"
+    },
+    "steps": {
+      "eyebrow": "Process",
+      "title": "From intake to delivery"
+    },
+    "unit1": "Vessel",
+    "unit2": "Wagon",
+    "unit3": "Truck"
+  },
+  "home": {
+    "centers": {
+      "btn1": "Sarakhs Logistics Center",
+      "btn2": "Bandar Abbas Terminal",
+      "desc": "Our two operational hubs: the Sarakhs Free Zone Logistics Center, Iran's rail gateway to Central Asia, and the Bandar Abbas terminals in the Strait of Hormuz for containers and bulk cargo.",
+      "eyebrow": "Operational centers",
+      "img1alt": "Freight train carrying containers on a rail route",
+      "img2alt": "Aerial view of a container terminal with gantry cranes",
+      "title": "Industrial zone & port logistics center"
+    },
+    "chat": {
+      "btn": "Start a chat",
+      "desc": "During working hours, a commercial specialist is online for you. Outside working hours, leave a message and we will call you back at the first opportunity — in Persian or English.",
+      "eyebrow": "Live chat",
+      "f1": "Replies during working hours: Saturday to Wednesday, 8:00 – 17:00",
+      "f2": "We collect your contact details for follow-up outside working hours",
+      "f3": "Every chat message is emailed to the specialist so no request is ever lost",
+      "imgAlt": "Business meeting and trade negotiation of the sales team",
+      "title": "Talk to our commercial specialist online"
+    },
+    "companies": {
+      "c1": "Multimodal land, rail, road and sea transport with annual capacity of up to one million tons of sulfur, 10,000 wagons from the CIS region and 5,000 containers from China.",
+      "c1t": "Daryadaran Tous Shipping Company",
+      "c2": "Container terminal, unloading, loading and warehousing in Bandar Abbas with an operating capacity of up to 500,000 containers per year.",
+      "c2t": "Harmoniza Hormoz Arian",
+      "c3": "Unloading, loading and warehousing of bulk cargo in Bandar Abbas: grains, sulfur, cement and minerals.",
+      "c3t": "Hami Hamrah Jonoub",
+      "c4": "Investment and trade of goods needed by Iran, Iraq and neighboring countries with a regional supply and distribution network.",
+      "c4t": "Naghel Al-Sud",
+      "c5": "Trade development with Pakistan, Turkmenistan, Uzbekistan, Turkey, the United Arab Emirates and Afghanistan.",
+      "c6": "Rail and road unloading, loading and warehousing at Iran's main gateway to Central Asia, with dual-gauge rail and wagon interchange.",
+      "c6t": "Sarakhs Free Zone Logistics Center",
+      "eyebrow": "Group companies",
+      "more": "Details & request",
+      "sub": "Each company specializes in its own operational field; with one request, you get the entire chain.",
+      "title": "Our companies"
+    },
+    "contact": {
+      "btn": "Contact page & forms",
+      "c1t": "Phone call",
+      "c2": "Messaging & document exchange",
+      "c3": "Chat & file sharing",
+      "c4t": "Email",
+      "eyebrow": "Contact us",
+      "sub": "Reach us on whichever channel suits you best; we reply within 24 business hours.",
+      "title": "Submit your request right now"
+    },
+    "cta": {
+      "btn1": "Submit transport request",
+      "desc": "Fill in the transport request form or chat with our commercial specialist right now; a price proposal and schedule are provided at the first opportunity.",
+      "title": "Ready to move your cargo to its destination?",
+      "transport": "Request transport"
+    },
+    "hero": {
+      "cta1": "Submit transport request",
+      "cta2": "Access International Trade Laws",
+      "eyebrow": "International transport & trade network",
+      "hs1": "tons of sulfur transport capacity per year",
+      "hs2": "wagons from the CIS region per year",
+      "hs3": "containers per year at the terminal",
+      "slide1": "Sea, rail and road; the supply chain in your hands",
+      "sub": "Multimodal land, rail and sea transport, terminal operations in Bandar Abbas, the Sarakhs Free Zone Logistics Center and international trade — one supply chain, one responsible party.",
+      "title": "Human Sadid Bonyan Trade Holding"
+    },
+    "intro": {
+      "b1": "Land, rail, sea and multimodal transport",
+      "b2": "Unloading, loading and warehousing operations in Bandar Abbas and Sarakhs",
+      "b3": "Specialized wagon and container equipment for special cargoes",
+      "b4": "Incoterms, contract and customs procedure consulting",
+      "badge": "85% of Iran's container traffic passes through Shahid Rajaee Port",
+      "btn": "More about us",
+      "eyebrow": "About the holding",
+      "imgAlt": "Aerial view of a container terminal and cargo ships in port",
+      "p1": "Human Sadid Bonyan Trade Holding is a group of specialized companies in multimodal transport, port operations, warehousing and international trade that manages customers' supply chains from origin to destination, drawing on operational capacities in Bandar Abbas, the Sarakhs Free Zone and the markets of Iraq and neighboring countries.",
+      "p2": "With a network of wagons, trucks, containers and warehouse space, together with legal and contractual knowledge of international trade, we enable our customers to move their cargo with traceability, cost transparency and adherence to time commitments.",
+      "title": "Operational power, commercial precision, international reach"
+    },
+    "laws": {
+      "btn": "Enter the trade law section",
+      "desc": "Ten educational chapters; from Incoterms 2020 and customs procedures to L/C, bill of lading, CMR and SMGS, cargo insurance (ICC), sanctions and arbitration — plus a bilingual glossary.",
+      "eyebrow": "Expert reference",
+      "title": "International Trade Laws section"
+    },
+    "logos": {
+      "t1": "Client logo 1",
+      "t2": "Client logo 2",
+      "t3": "Client logo 3",
+      "t4": "Client logo 4",
+      "t5": "Client logo 5"
+    },
+    "stats": {
+      "eyebrow": "Quick stats",
+      "s1": "tons of sulfur transported annually",
+      "s2": "wagons per year from the CIS region",
+      "s3": "containers imported from China per year",
+      "s4": "containers of terminal capacity per year",
+      "sub": "The numbers below are the declared capacities of the group companies; details and conditions of each service are on their dedicated pages.",
+      "title": "Capacity that speaks on an international scale"
+    },
+    "testi": {
+      "btn": "View clients & partners",
+      "c1": "Chemical trading company",
+      "c2": "Industrial equipment importer",
+      "c3": "Regional distribution company",
+      "eyebrow": "Clients & partners",
+      "n1": "Supply Chain Manager",
+      "n2": "Import Operations Manager",
+      "n3": "Procurement Manager",
+      "q1": "“Sulfur wagons from the CIS were delivered without a single day of delay; follow-up and cost transparency were excellent.”",
+      "q2": "“Container unloading and storage in Bandar Abbas was done with order and daily reports; coordination with the vessel was precise.”",
+      "q3": "“The Sarakhs rail route was the best choice for our transit cargo; their knowledge of border procedures really helped.”",
+      "sub": "A selection of client feedback (early samples — replace with real names before publication).",
+      "title": "Trust built with every shipment"
+    }
+  },
+  "hz": {
+    "f": {
+      "g1": "1. Vessel & document information",
+      "g2": "2. Containers & cargo",
+      "g3": "3. Services requested"
+    },
+    "f1": "TEU handled in 2024",
+    "f2": "million tons of cargo in 2024",
+    "f3": "m³ of complex warehousing space",
+    "f4": "reefer power outlets",
+    "facts": {
+      "eyebrow": "Port scale",
+      "notice": "Source: 2024 performance statistics of the Shahid Rajaee Port Complex and the company's declared capacity. Port figures must be reconciled with the latest official statistics from the Ports and Maritime Organization before publication; the company's 500,000-container capacity is also a declared figure subject to verification.",
+      "title": "Why Bandar Abbas?"
+    },
+    "field": {
+      "bl": "Bill of Lading (B/L) number",
+      "cargoPh": "Cargo type, packaging, approximate weight",
+      "count": "Number of containers",
+      "dateFrom": "Expected operation date",
+      "eta": "Planned arrival date",
+      "line": "Shipping line",
+      "linePh": "Shipping line name",
+      "mixed": "Mixed",
+      "notesPh": "Shift patterns, special constraints, third-party delivery, etc.",
+      "numbers": "Container numbers",
+      "numbersPh": "One container per line or comma-separated",
+      "optionalPh": "If issued",
+      "storage": "Storage period (days)",
+      "vessel": "Vessel name",
+      "vesselPh": "Ship name"
+    },
+    "form": {
+      "eyebrow": "Service request",
+      "sub": "Enter the vessel and container details; the operations plan is announced within 24 business hours.",
+      "submit": "Submit terminal request",
+      "title": "Unloading, loading and storage request form"
+    },
+    "hero": {
+      "cta": "Request terminal services",
+      "sub": "Container unloading, loading and warehousing in the heart of Bandar Abbas; nominal capacity of up to 500,000 containers per year.",
+      "title": "Harmoniza Hormoz Arian — Bandar Abbas container terminal"
+    },
+    "intro": {
+      "badge": "Bandar Abbas — Shahid Rajaee Complex",
+      "desc": "Bandar Abbas and the Shahid Rajaee Port Complex are Iran's largest container hub: according to published statistics, about 2.39 million TEU of containers were handled at the complex in 2024, with roughly 85 million tons of cargo moved in total; estimates show an 85–90% share of the country's total container traffic. Harmoniza Hormoz Arian, with its operations team inside this complex, delivers terminal services to shipping lines, exporters and importers.",
+      "eyebrow": "About the terminal",
+      "f1": "Container unloading and loading with modern quay equipment",
+      "f2": "Container and cargo storage in the terminal yard",
+      "f3": "Reefer services and temperature-sensitive cargo care",
+      "f4": "Customs, gate and shipping-document coordination with shipping lines",
+      "imgAlt": "Gantry cranes loading containers at a port terminal",
+      "title": "Iran's southern container gateway"
+    },
+    "linkBulk": "Bulk transport (Hami Hamrah Jonoub)",
+    "s1": {
+      "d": "Quay operations for container vessels with shift planning and cargo soundness supervision.",
+      "t": "Vessel unloading & loading"
+    },
+    "s2": {
+      "d": "Moving containers between quay, yard and gate with trucks and terminal equipment.",
+      "t": "Yard logistics"
+    },
+    "s3": {
+      "d": "Container and cargo storage in a secure area with entry/exit status recording.",
+      "t": "Warehousing"
+    },
+    "s4": {
+      "d": "Connecting and monitoring reefer outlets for temperature-sensitive and food cargo.",
+      "t": "Reefer services"
+    },
+    "s5": {
+      "d": "Bill of lading, container list and customs document control at delivery to the cargo owner.",
+      "t": "Documentation coordination"
+    },
+    "s6": {
+      "d": "Short-term and long-term container storage per agreement and published rates.",
+      "t": "Time-bound storage"
+    },
+    "svc": {
+      "eyebrow": "Services",
+      "title": "Complete terminal service package"
+    },
+    "svc1": "Unloading",
+    "svc2": "Loading",
+    "svc3": "Warehousing",
+    "svc4": "Reefer services",
+    "svc5": "Gate services",
+    "svc6": "Customs coordination"
+  },
+  "law": {
+    "modeAir": "Air",
+    "modeRailCis": "Rail (CIS)",
+    "modeRailEu": "Rail (Europe)",
+    "modeRoad": "Road",
+    "modeSea": "Sea"
+  },
+  "laws": {
+    "anyMode": "All modes",
+    "awbNote": "Non-negotiable; delivery of cargo against the original copy.",
+    "awbRule": "Warsaw/Montreal Convention 1999",
+    "blNote": "Three functions: receipt, contract of carriage and (in order bills) title document.",
+    "blRule": "Hague-Visby / Hamburg / COGSA",
+    "c1": {
+      "h3a": "Structure of an export/import deal",
+      "h3b": "Four legal pillars of international trade",
+      "o1": "Negotiation and agreement on price, delivery terms and Incoterms",
+      "o2": "Conclusion of the sales contract with cargo description, quality, packaging and delivery time",
+      "o3": "Payment arrangement (advance payment, L/C or T/T)",
+      "o4": "Production/sourcing, inspection and export packaging",
+      "o5": "Transport, insurance and preparation of shipping documents",
+      "o6": "Customs clearance at origin and destination",
+      "o7": "Cargo delivery, final settlement and file closure",
+      "p1": "International trade is the exchange of goods and services between parties from different legal, monetary and customs systems. Unlike domestic trade, these deals carry extra risks: exchange-rate fluctuations, differing laws, transport distance, risk of damage in transit, sanctions and documentary requirements.",
+      "t": "Introduction to international trade",
+      "u1": "International sales contract: applicable domestic law or the CISG (United Nations Convention on Contracts for the International Sale of Goods, 1980) as the parties agree.",
+      "u2": "Incoterms: define delivery, cost and risk allocation between seller and buyer.",
+      "u3": "Transport and payment documents: bill of lading, CMR, letter of credit, etc.",
+      "u4": "General regulations: customs, sanctions, insurance and competition/export-control law."
+    },
+    "c10": {
+      "p1": "Persian and English equivalents of the most common international trade and transport terms:",
+      "t": "Bilingual glossary"
+    },
+    "c2": {
+      "h3a": "Terms suited to each mode of transport",
+      "h3b": "Key points of the 2020 edition",
+      "p1": "Incoterms are the International Chamber of Commerce (ICC) standard that, through eleven terms, draw the line of seller and buyer responsibility for delivery, cost allocation and transfer of risk. The current edition is Incoterms 2020 and, like previous editions, it is not contractually binding — it only applies when referenced in the contract.",
+      "t": "Incoterms 2020",
+      "u1": "State costs in alphabetical order in the contract document to avoid ambiguity.",
+      "u2": "Under FCA the seller may obtain an Onboard bill of lading so they can use a letter of credit.",
+      "u3": "CIF/CIP set a minimum insurance cover; for high-value cargo agree ICC (A) cover.",
+      "u4": "For multimodal shipments, EXW and FOB are higher-risk choices; FCA or CPT/CIP are usually more suitable.",
+      "u5": "Incoterms do not by themselves transfer title, validate the contract or override customs requirements."
+    },
+    "c3": {
+      "h3a": "Typical import and export documents",
+      "h3b": "Operational path",
+      "notice": "Customs regulations are amended frequently; always confirm tariff codes, duties and mandatory permits with the Islamic Republic of Iran Customs Administration and a licensed consultant.",
+      "o1": "Register the order and obtain permits before the goods arrive",
+      "o2": "Declare the goods to customs (e-declaration and the Single Window for cross-border trade)",
+      "o3": "Valuation, duty assessment and mandatory standards",
+      "o4": "Clearance or transfer to a bonded warehouse",
+      "o5": "Visit the bank/exchange office for currency transfer per regulations",
+      "p1": "Every goods crossing a border is subject to that country's tariff, technical regulations and special requirements. The World Customs Organization's Harmonized System (HS) is the common language of goods description: each product has a ten-digit national tariff code and a six-digit international code.",
+      "t": "Export and import customs procedures",
+      "u1": "Commercial invoice with cargo description, value and sales terms",
+      "u2": "Packing list with net/gross weight and number of packages",
+      "u3": "Bill of lading or other transport document suited to the mode",
+      "u4": "Cargo insurance policy (under CIF/CIP terms or as requested)",
+      "u5": "Certificates of origin, health, inspection or standards as required by cargo type",
+      "u6": "Customs declaration and special permits (Health, Agriculture, Standards organizations, etc.)"
+    },
+    "c4": {
+      "h3a": "Letter of Credit (L/C) — the heart of documentary trade",
+      "h3b": "Documentary Collection",
+      "h3c": "Telegraphic Transfer (T/T)",
+      "p1": "In international trade, money replaces trust. The three main payment methods are advance payment, bank transfer (T/T) and the Letter of Credit; Documentary Collection is a middle path.",
+      "p1a": "A letter of credit is an unconditional undertaking by the issuing bank that guarantees payment when conforming documents are presented. The most important rule is the credit's independence from the underlying contract: the bank looks only at the documents, not the goods.",
+      "p2": "The most common practical method; usually a combination of advance payment (30–50%) and settlement after document copies are sent or goods are delivered. For a first deal with a new counterparty, safeguards such as a letter of credit or staged sampling are recommended.",
+      "t": "Letters of credit, payment and collection",
+      "u1": "Types: revocable (rare today), irrevocable, confirmed and standby letters of credit.",
+      "u2": "Key rule: an L/C is governed by UCP 600 if it says so.",
+      "u3": "Typical documents: bill of lading, invoice, packing list, certificate of origin, inspection certificate and insurance policy.",
+      "u4": "Compliance: documents must strictly match the credit's terms; even minor differences can cause a discrepancy and extra cost.",
+      "u5": "D/P (Documents against Payment): documents are released to the buyer only after payment.",
+      "u6": "D/A (Documents against Acceptance): documents are released against the buyer's written undertaking to pay at maturity.",
+      "u7": "These methods are cheaper than an L/C but carry no bank payment guarantee and are governed by URC 522."
+    },
+    "c5": {
+      "h3a": "Practical points",
+      "p1": "A transport document is the receipt for goods with the carrier, the start of the carriage obligation and in some cases the instrument of title transfer. Each mode of transport has its own document and rules.",
+      "t": "Transport documents: CMR, bill of lading, AWB and CIM/SMGS",
+      "u1": "In a sea bill of lading, a “Clean B/L” means the goods were received apparently in good order; a claused remark can disrupt a letter of credit.",
+      "u2": "Multimodal shipments use combined transport documents.",
+      "u3": "The time limit for damage claims under the CMR road convention is usually 21 days after delivery (see the relevant rule for details).",
+      "u4": "Keeping document copies and aligning the consignee name across documents and contracts matters greatly."
+    },
+    "c6": {
+      "h3a": "Modern instruments",
+      "notice": "Warning: this chapter is a general educational overview only, not a legal interpretation or official opinion. For any customs case, use a customs legal advisor and the official authorities (Islamic Republic of Iran Customs Administration, Trade Promotion Organization).",
+      "p1": "Iran's customs framework rests on the Customs Affairs Law, import/export regulations and the national tariff (ten-digit HS). Goods fall into four general groups:",
+      "p2": "The final rate of each good is calculated from the customs base value, tariff, national duties, taxes and possibly VAT, and is affected by annual approvals and tariff sanctions.",
+      "t": "Iranian customs regulations and tariffs",
+      "u1": "Group 1 (basic goods): eligible for preferential exchange rates and duty discounts.",
+      "u2": "Group 2: customs duties below the full rate.",
+      "u3": "Group 3: full customs duties.",
+      "u4": "Group 4: goods prohibited from import.",
+      "u5": "Single Window for cross-border trade to integrate permits",
+      "u6": "Electronic declaration and pre-declaration",
+      "u7": "Standards, health and sectoral permit systems (National Permits Gateway)",
+      "u8": "Free zones and special economic areas with duty exemptions or discounts"
+    },
+    "c7": {
+      "h3a": "Core compliance principles",
+      "h3b": "Practical points",
+      "notice": "This chapter is a general overview; every transaction's sanctions assessment must be performed by a sanctions-law specialist.",
+      "o1": "Know your counterparty: verify name, beneficial owners and country of interest (KYC) against sanctions lists.",
+      "o2": "Know the cargo: HS code and possible dual-use or military application.",
+      "o3": "Know the route: the port, shipping line, bank and financial intermediaries involved.",
+      "o4": "Record and archive: keep transaction documents at least for the statutory retention period.",
+      "o5": "Training and periodic review: keep lists and processes up to date.",
+      "p1": "International sanctions are economic restrictions imposed by the UN Security Council, the European Union, the United States (OFAC) and other bodies. For every international trade practitioner, a Compliance Program is a practical necessity, not a formality.",
+      "t": "Sanctions & compliance",
+      "u1": "Terms such as “final destination” or “end-user” in documents must match reality.",
+      "u2": "Payments should flow through transparent, traceable banking channels.",
+      "u3": "At the slightest doubt, suspend the deal and consult legal counsel.",
+      "u4": "Sanctions rules are not static and can change overnight; continuous updating is essential."
+    },
+    "c8": {
+      "h3a": "Key points of the insurance contract",
+      "p1": "Cargo Insurance covers loss arising from marine, road, rail and air incidents. The most widely used terms are the Institute Cargo Clauses (ICC), offered at three levels:",
+      "t": "Cargo insurance & ICC clauses",
+      "u1": "ICC (A): near-all-risks cover except expressly excluded perils; the default under CIP.",
+      "u2": "ICC (B): cover for loss caused by named perils such as fire, explosion, overturning, collision and sea water.",
+      "u3": "ICC (C): minimum cover; major losses such as sinking, fire or overturning; the default under CIF.",
+      "u4": "Insured value: usually CIF value plus 10% (CIF + 10%) to cover expected profit.",
+      "u5": "Additional covers: War and Strikes clauses are usually added separately.",
+      "u6": "Voyage and Time insurance: the first for a single voyage, the second for a defined period.",
+      "u7": "Claims procedure: immediate notice of loss, preparation of documents (customary protest, bill of lading, invoice) and the insurer's right of subrogation.",
+      "u8": "Carrier liability and General Average: in cases of voluntary sacrifice (such as jettisoning cargo at sea), all stakeholders share the loss."
+    },
+    "c9": {
+      "h3a": "Comparing the methods",
+      "h3b": "The arbitration clause",
+      "p1": "International commercial disputes are usually settled by arbitration rather than national courts, because arbitral awards are recognizable and enforceable in more than 170 states party to the 1958 New York Convention.",
+      "t": "Dispute resolution & arbitration",
+      "u1": "Specify the seat of arbitration; the seat determines the procedural law governing the process.",
+      "u2": "State the number of arbitrators (usually one or three), the language and the applicable rules.",
+      "u3": "Choose an enforceable governing law, such as Iranian law, English law or the CISG.",
+      "u4": "An initial good-faith attempt to settle amicably is common and useful."
+    },
+    "cfr": "Freight to the port of destination; risk transfers when loaded on board.",
+    "cif": "CFR plus insurance with minimum ICC (C) cover.",
+    "cimNote": "International European rail consignment note; standard form and claim time limits.",
+    "cimRule": "COTIF — Rail Transport Convention",
+    "cip": "CPT plus insurance with broader ICC (A) cover.",
+    "cmrNote": "Non-negotiable road consignment note; carrier liability based on weight.",
+    "cmrRule": "CMR Convention (1956)",
+    "cpt": "Freight to destination; risk transfers on hand-over to the first carrier.",
+    "cta": {
+      "desc": "The group's trade and logistics specialists review your deal terms and shipping route.",
+      "title": "Need advice on a contract or transport route?"
+    },
+    "dap": "Delivered at destination, ready for unloading; unloading is the buyer's job.",
+    "ddp": "Delivered duty paid at destination, with import clearance by the seller.",
+    "disclaimer": "Not legal advice: the content of this page is for information and general education only and does not replace legal counsel, contracts or customs authorities' opinions. Before any international transaction, consult a lawyer and a specialist advisor.",
+    "dpu": "The only term where unloading is the seller's responsibility.",
+    "exw": "Delivered at the seller's premises; the buyer handles loading.",
+    "fas": "Alongside the vessel at the origin port.",
+    "fca": "Delivered to the carrier at the agreed place; suited to container transport.",
+    "fob": "On board the vessel; risk transfers when the goods are on deck.",
+    "g1": {
+      "d": "The international rule set defining seller and buyer responsibilities in delivery.",
+      "t": "Incoterms"
+    },
+    "g10": {
+      "d": "Twenty-foot Equivalent Unit; the standard measure of container capacity.",
+      "t": "Container standard unit — TEU"
+    },
+    "g11": {
+      "d": "FCL is a container dedicated to one cargo owner; LCL consolidates several shipments in one container.",
+      "t": "Full container load — FCL / less than container load — LCL"
+    },
+    "g12": {
+      "d": "Discharging cargo from a vessel at the destination quay.",
+      "t": "Vessel discharge"
+    },
+    "g13": {
+      "d": "Performing the legal formalities for goods to enter or leave a country and paying duties.",
+      "t": "Customs clearance"
+    },
+    "g14": {
+      "d": "A warehouse where goods are held until import duties are paid.",
+      "t": "Bonded warehouse"
+    },
+    "g15": {
+      "d": "An area outside the normal customs territory with duty exemptions or reductions.",
+      "t": "Free zone / free trade zone"
+    },
+    "g16": {
+      "d": "Rules determining the commercial origin of goods for tariff or permit purposes.",
+      "t": "Rules of origin"
+    },
+    "g17": {
+      "d": "Placing goods on a means of transport or taking them off it.",
+      "t": "Loading / unloading"
+    },
+    "g18": {
+      "d": "The charge paid to the carrier for moving goods.",
+      "t": "Freight"
+    },
+    "g19": {
+      "d": "A contract to hire a vessel for cargo, in lump-sum or voyage charter forms.",
+      "t": "Charter party"
+    },
+    "g2": {
+      "d": "The maritime transport document that is a receipt, a contract of carriage and sometimes a title document.",
+      "t": "Bill of lading (B/L)"
+    },
+    "g20": {
+      "d": "Penalty for container/wagon idling beyond the allowed free time at port or warehouse.",
+      "t": "Demurrage / detention"
+    },
+    "g3": {
+      "d": "The air transport document; non-negotiable, a receipt of goods with the air carrier.",
+      "t": "Air waybill (AWB)"
+    },
+    "g4": {
+      "d": "International road transport document governed by the CMR Convention.",
+      "t": "CMR consignment note"
+    },
+    "g5": {
+      "d": "International rail transport document; SMGS for CIS countries, CIM for the European network.",
+      "t": "Rail consignment note — SMGS / CIM"
+    },
+    "g6": {
+      "d": "A bank undertaking to pay against documents conforming to the credit terms.",
+      "t": "Letter of credit (L/C)"
+    },
+    "g7": {
+      "d": "Electronic transfer of funds through a bank to the beneficiary's account.",
+      "t": "Telegraphic transfer (T/T)"
+    },
+    "g8": {
+      "d": "Sending documents through a bank for payment (D/P) or acceptance (D/A).",
+      "t": "Documentary collection"
+    },
+    "g9": {
+      "d": "A ten-digit goods classification code based on the World Customs Harmonized System.",
+      "t": "HS code"
+    },
+    "hero": {
+      "sub": "A ten-chapter learning library for traders, logistics managers and students; from Incoterms to arbitration.",
+      "title": "International Trade Laws"
+    },
+    "m1": "Direct negotiation",
+    "m1f": "Preserves the trade relationship; recommended as the first step.",
+    "m1s": "Lowest cost",
+    "m2": "Mediation",
+    "m2f": "The parties reach a non-binding decision or settlement agreement.",
+    "m2s": "Low cost and flexible",
+    "m3": "Institutional arbitration (ICC, LCIA, TAIC)",
+    "m3f": "Defined rules, specialist arbitrators and an internationally enforceable award.",
+    "m3s": "Medium to high",
+    "m4": "Ad hoc arbitration (UNCITRAL)",
+    "m4f": "Agreement on arbitrators, seat and rules; suited to bilateral contracts.",
+    "m4s": "Flexible",
+    "m5": "National courts",
+    "m5f": "Subject to the jurisdiction of competent courts; international enforcement is harder.",
+    "m5s": "Slower across borders",
+    "seaMode": "Sea / inland waterway",
+    "smgsNote": "Governs rail transport between CIS countries and Iran; bilingual.",
+    "smgsRule": "Intergovernmental SMGS Agreement",
+    "thDoc": "Document",
+    "thFeature": "Feature",
+    "thMeaning": "Primary basis",
+    "thMethod": "Method",
+    "thMode": "Mode of transport",
+    "thNote": "Key note",
+    "thRule": "Governing rule",
+    "thSpeed": "Speed / cost",
+    "thTerm": "Term",
+    "thTransport": "Mode",
+    "toc": {
+      "title": "Table of contents"
+    },
+    "toc1": "Introduction to international trade",
+    "toc10": "Bilingual glossary",
+    "toc2": "Incoterms 2020",
+    "toc3": "Export and import customs procedures",
+    "toc4": "Letters of credit, payment and collection",
+    "toc5": "Transport documents: CMR, bill of lading, AWB and CIM/SMGS",
+    "toc6": "Iranian customs regulations and tariffs",
+    "toc7": "Sanctions & compliance",
+    "toc8": "Cargo insurance & ICC clauses",
+    "toc9": "Dispute resolution & arbitration"
+  },
+  "meta": {
+    "404": {
+      "description": "The page you are looking for does not exist; return to the home page or contact us.",
+      "title": "Page not found | Human Sadid Bonyan Trade Holding"
+    },
+    "about": {
+      "description": "Meet Human Sadid Bonyan Trade Holding; a group of specialized companies in multimodal transport, port operations, warehousing and international trade in Iran, Iraq and neighboring countries.",
+      "title": "About Us | Human Sadid Bonyan Trade Holding"
+    },
+    "affiliated": {
+      "description": "Affiliated companies of Human Sadid Bonyan Trade Holding in Pakistan, Turkmenistan, Uzbekistan, Turkey, the United Arab Emirates and Afghanistan; developing international trade between Iran and these countries.",
+      "title": "Affiliated Companies | Pakistan, Turkmenistan, Uzbekistan, Turkey, UAE, Afghanistan"
+    },
+    "careers": {
+      "description": "Career opportunities at Human Sadid Bonyan Trade Holding; jobs in international transport, trade, port operations, customs and logistics.",
+      "title": "Careers | Human Sadid Bonyan Trade Holding"
+    },
+    "certifications": {
+      "description": "Documents, certificates and quality, safety and environmental standards of Human Sadid Bonyan Trade Holding in transport and logistics.",
+      "title": "Certificates & Documents | Human Sadid Bonyan Trade Holding"
+    },
+    "clients": {
+      "description": "Clients, trade partners and collaborators of Human Sadid Bonyan Trade Holding in international transport, commerce and logistics.",
+      "title": "Our Clients & Partners | Human Sadid Bonyan Trade Holding"
+    },
+    "contact": {
+      "description": "Contact Human Sadid Bonyan Trade Holding; contact form, phone, WhatsApp, Telegram and email for transport requests, price inquiries and logistics advice.",
+      "title": "Contact Us | Human Sadid Bonyan Trade Holding"
+    },
+    "daryadaran": {
+      "description": "Daryadaran Tous Shipping Company; international multimodal transport; up to 1,000,000 tons of sulfur, 10,000 wagons from the CIS region and 5,000 containers from China annually. Online transport requests.",
+      "title": "Daryadaran Tous | Multimodal Land, Rail and Sea Transport"
+    },
+    "faq": {
+      "description": "Answers to common questions about international transport, transport requests, cargo insurance, Incoterms, shipment tracking, payment and working with Human Sadid Bonyan Trade Holding.",
+      "title": "Frequently Asked Questions | Human Sadid Bonyan Trade Holding"
+    },
+    "gallery": {
+      "description": "Photo gallery of the ports, containers, freight trains, trucks, warehouses and ships of Human Sadid Bonyan Trade Holding on international transport routes.",
+      "title": "Photo Gallery | Human Sadid Bonyan Trade Holding"
+    },
+    "hami": {
+      "description": "Hami Hamrah Jonoub Company; unloading, loading and warehousing of bulk cargo (grains, sulfur, cement, minerals) in Bandar Abbas. Bulk operations requests.",
+      "title": "Hami Hamrah Jonoub | Bulk Cargo Handling in Bandar Abbas"
+    },
+    "harmoniza": {
+      "description": "Harmoniza Hormoz Arian Company; container unloading, loading and warehousing operations in Bandar Abbas with a nominal capacity of up to 500,000 containers per year. Terminal service requests.",
+      "title": "Harmoniza Hormoz Arian | Bandar Abbas Container Terminal"
+    },
+    "index": {
+      "description": "Human Sadid Bonyan Trade Holding; multimodal land, rail and sea transport, Bandar Abbas container terminal, Sarakhs Free Zone Logistics Center and international trade with millions of tons of annual capacity.",
+      "title": "Human Sadid Bonyan Trade Holding | International Transport, Trade & Logistics"
+    },
+    "laws": {
+      "description": "A textbook guide to international trade law and procedures: Incoterms 2020, customs procedures, letters of credit and payment methods, CMR/bill of lading/AWB/CIM-SMGS transport documents, Iranian regulations, sanctions and compliance, cargo insurance and ICC, arbitration and a bilingual glossary.",
+      "title": "International Trade Laws | Educational library on Incoterms, customs, letters of credit and insurance"
+    },
+    "naghel": {
+      "description": "Naghel Al-Sud Company; trade and investment in goods needed by Iran, Iraq and neighboring countries. Requests for supply, sales or trade partnerships.",
+      "title": "Naghel Al-Sud | Trade with Iran, Iraq and neighboring countries"
+    },
+    "news": {
+      "description": "Articles and news on international transport, the Incoterms 2020 guide, the Sarakhs rail route, Bandar Abbas operations and trade with neighboring countries.",
+      "title": "News & Articles | Human Sadid Bonyan Trade Holding"
+    },
+    "privacy": {
+      "description": "Privacy policy of Human Sadid Bonyan Trade Holding; how user information is collected, used and protected in forms and live chat.",
+      "title": "Privacy Policy | Human Sadid Bonyan Trade Holding"
+    },
+    "projects": {
+      "description": "Project areas of Human Sadid Bonyan Trade Holding: rail transport of sulfur from the CIS, container imports from China, Bandar Abbas terminal operations, Sarakhs transit and trade with Iraq and neighboring countries.",
+      "title": "Projects | Human Sadid Bonyan Trade Holding"
+    },
+    "sarakhs": {
+      "description": "The Sarakhs Free Trade-Industrial Zone Logistics Center; strategic location on the Iran-Turkmenistan border, dual-gauge rail, daily wagon interchange and unloading, loading and warehousing services.",
+      "title": "Sarakhs Free Zone Logistics Center | Unloading, loading & storage"
+    },
+    "services": {
+      "description": "Services of Human Sadid Bonyan Trade Holding: multimodal land, rail and sea transport, container terminal operations, warehousing, international trade and Incoterms and customs consulting.",
+      "title": "Services | Human Sadid Bonyan Trade Holding"
+    },
+    "terms": {
+      "description": "Terms of use of the Human Sadid Bonyan Trade Holding website; rules for using content, forms, inquiries and limitation of liability.",
+      "title": "Terms of Use | Human Sadid Bonyan Trade Holding"
+    },
+    "vision": {
+      "description": "Vision, mission and values of Human Sadid Bonyan Trade Holding; becoming one of the region's most trusted international transport and trade networks.",
+      "title": "Vision & Mission | Human Sadid Bonyan Trade Holding"
+    }
+  },
+  "nav": {
+    "about": "About Us",
+    "affiliated": "Affiliated Companies",
+    "careers": "Careers",
+    "certifications": "Certifications",
+    "clients": "Clients & Partners",
+    "companies": "Companies",
+    "contact": "Contact Us",
+    "daryadaran": "Daryadaran Tous",
+    "faq": "FAQ",
+    "gallery": "Photo Gallery",
+    "hami": "Hami Hamrah Jonoub",
+    "harmoniza": "Harmoniza Hormoz Arian",
+    "home": "Home",
+    "laws": "International Trade Laws",
+    "more": "More",
+    "naghel": "Naghel Al-Sud",
+    "news": "News & Articles",
+    "privacy": "Privacy Policy",
+    "projects": "Projects",
+    "sarakhs": "Sarakhs Free Zone",
+    "services": "Services",
+    "terms": "Terms of Use",
+    "vision": "Vision & Mission"
+  },
+  "news": {
+    "cta": {
+      "desc": "The International Trade Laws section provides public-information answers across ten chapters.",
+      "title": "Have a question about trade procedures?"
+    },
+    "hero": {
+      "sub": "Events, guides and practical tips for transport, import and export professionals.",
+      "title": "News & Articles"
+    },
+    "n1": {
+      "date": "15 Mehr 1405 — 7 October 2026",
+      "imgAlt": "Freight train carrying containers"
+    },
+    "n1d": "A look at the capacity of the Sarakhs dual-gauge rail corridor, wagon interchange at the border, and its role in transiting cargo to Turkmenistan, Uzbekistan and Kazakhstan.",
+    "n1t": "The Sarakhs rail route; Iran's gateway to Central Asia",
+    "n2": {
+      "date": "29 Shahrivar 1405 — 20 September 2026",
+      "imgAlt": "Cement bags stacked on pallets"
+    },
+    "n2d": "Seller and buyer responsibilities across all eleven rules, delivery points, separable costs and the most common mistakes in import and export contracts.",
+    "n2t": "Incoterms 2020 at a glance; from EXW to DDP",
+    "n3": {
+      "date": "10 Shahrivar 1405 — 31 August 2026",
+      "imgAlt": "Container terminal in port"
+    },
+    "n3d": "Steps for unloading grains, cement and minerals from vessel to warehouse, required documents, wagon hire scheduling and warehousing contract tips.",
+    "n3t": "Bulk cargo unloading in Bandar Abbas; what you need to know",
+    "notice": "This section was launched with sample articles; before publication, update dates and content with the group's real news.",
+    "read": "Read more"
+  },
+  "nf": {
+    "c1d": "Place a multimodal transport order with Daryadaran Tous.",
+    "c1t": "Transport request",
+    "c2d": "Ten educational chapters on Incoterms, customs, payment and insurance.",
+    "c2t": "International Trade Laws",
+    "c3d": "Contact form, WhatsApp, Telegram and direct phone line.",
+    "c3t": "Contact Us",
+    "eyebrow": "We recommend",
+    "home": "Back to home page",
+    "more": "More",
+    "sub": "The address you entered does not exist or has moved. Continue from the main menu or go back home.",
+    "title": "404 — Page not found",
+    "title2": "Key sections"
+  },
+  "ng": {
+    "c1": {
+      "d": "Sugar, oil, rice, legumes and food products needed by the Iraqi and Iranian markets.",
+      "t": "Food & agriculture"
+    },
+    "c2": {
+      "d": "Cement, steel, pipes and construction materials for projects in both countries.",
+      "t": "Materials & industrial products"
+    },
+    "c3": {
+      "d": "Base and intermediate petrochemical products with standard export packaging and documents.",
+      "t": "Petrochemical & chemical products"
+    },
+    "c4": {
+      "d": "Periodic supply for importers, factories and distributors under annual contracts.",
+      "t": "Bulk supply (B2B)"
+    },
+    "c5": {
+      "d": "Participation in sourcing, packaging and distribution projects in the Iraqi market.",
+      "t": "Joint investment"
+    },
+    "c6": {
+      "d": "Opening letters of credit, cargo inspection, transport documents and customs coordination for deals.",
+      "t": "Trade services"
+    },
+    "cats": {
+      "eyebrow": "Areas of activity",
+      "title": "Goods and services categories"
+    },
+    "f": {
+      "g1": "1. Requesting party",
+      "g2": "2. Goods and deal terms"
+    },
+    "field": {
+      "notesPh": "Quality, standards, packaging, delivery time, etc.",
+      "productPh": "e.g. sugar, cement, steel pipes…",
+      "qtyPh": "e.g. 500 tons per month"
+    },
+    "form": {
+      "eyebrow": "Trade request",
+      "sub": "A trade specialist will call you within 24 business hours.",
+      "submit": "Submit trade request",
+      "title": "Goods, sourcing or partnership request form"
+    },
+    "hero": {
+      "cta": "Request sourcing / partnership",
+      "sub": "Investment and trade in goods needed by Iran, Iraq and regional countries; from sourcing to border delivery.",
+      "title": "Naghel Al-Sud — trade between Iran, Iraq and neighbors"
+    },
+    "intro": {
+      "badge": "Iran–Iraq land borders",
+      "desc": "Naghel Al-Sud operates in the Iraqi market and neighboring countries, sourcing, exchanging and delivering the goods both sides of the border need — from foodstuffs and construction materials to industrial and petrochemical products. A network of trade partners in Iraq, Iran's western and eastern land borders and the group's logistics capability enable fast, trackable deals.",
+      "eyebrow": "About Naghel Al-Sud",
+      "f1": "Iranian exports to Iraq and import of goods needed in Iran",
+      "f2": "Joint partnership and investment with traders and importers",
+      "f3": "Border deals with reliable land transport, complete documents and daily follow-up",
+      "f4": "Transparent contracts with clear payment and delivery terms",
+      "imgAlt": "Freight trucks on an international trade route",
+      "title": "A trade bridge between Iran and Iraq"
+    },
+    "linkAff": "Affiliated companies",
+    "linkLaws": "Payment and letter of credit guide",
+    "notice": "Before publication: the real list of goods and investment areas must be approved by trade management."
+  },
+  "privacy": {
+    "hero": {
+      "sub": "Your information is a trust; this page explains what is collected, how it is used and how it is protected.",
+      "title": "Privacy Policy"
+    },
+    "notice": "This is sample legal text and must be reviewed by legal counsel and matched to the company's actual conditions before publication.",
+    "s1": {
+      "p1": "When you use the transport, warehousing, trade, contact or newsletter forms, we receive information such as name, company name, national ID/registration number, phone, email, origin and destination, cargo details and attachments (if sent). In live chat, the message text and, if provided, your contact details are stored.",
+      "title": "1. What information is collected?"
+    },
+    "s2": {
+      "p1": "Information is used solely to answer requests, provide quotes, track shipments, send the newsletter and fulfill contractual obligations, and is not shared with third parties (except technical services such as the form delivery and chat services) unless legally required.",
+      "title": "2. How is information used?"
+    },
+    "s3": {
+      "p1": "This website may use Google Analytics or a similar tool to measure visits, recording anonymous statistical data (such as browser type and pages viewed). If these tools are enabled, a corresponding notice will be posted on the website.",
+      "title": "3. Analytics and cookies"
+    },
+    "s4": {
+      "p1": "Live chat is provided by Tawk.to (or an alternative service) and messages may be stored on that service's infrastructure. Every message is also emailed to our specialist so a quick reply can be given. Please do not include sensitive financial information in your messages.",
+      "title": "4. Live chat"
+    },
+    "s5": {
+      "p1": "The website runs on HTTPS, Content Security Policy restrictions, form input sanitization and a honeypot spam trap; no passwords or secret keys are stored in the website code.",
+      "title": "5. Security"
+    },
+    "s6": {
+      "p1": "You may request deletion of your information, correction of your data or unsubscribe from the newsletter. Simply reach us through the contact page or by email.",
+      "title": "6. Your rights"
+    },
+    "s7": {
+      "p1": "For any privacy question, contact 09153143647 or the site's configured email on the Contact Us page.",
+      "title": "7. Contact"
+    },
+    "toTerms": "Terms of Use"
+  },
+  "projects": {
+    "cta": {
+      "desc": "Submit your request for a feasibility check on the route, schedule and cost.",
+      "title": "Your project starts here"
+    },
+    "hero": {
+      "sub": "A sample of the areas where the group's operational teams have experience and execution capacity.",
+      "title": "Projects & execution areas"
+    },
+    "notice": "Note: the items below show the group's execution areas and capacities; details of completed projects, client names and definitive statistics will be added to this section after internal approval, before final publication.",
+    "p1": {
+      "imgAlt": "Freight wagons carrying containers on a rail route",
+      "tag": "Rail / CIS"
+    },
+    "p1d": "Planning mineral and bulk wagons from CIS origins to Iran, coordinating unloading at Bandar Abbas and inland delivery.",
+    "p1t": "Rail transport of sulfur from the CIS region",
+    "p2": {
+      "imgAlt": "Container terminal with gantry cranes",
+      "tag": "Sea / China"
+    },
+    "p2d": "Moving thousands of 20- and 40-foot containers from Chinese ports to Bandar Abbas with shipping line, terminal and inland distribution coordination.",
+    "p2t": "Container imports from China",
+    "p3": {
+      "imgAlt": "Aerial view of container ships in port",
+      "tag": "Terminal"
+    },
+    "p3d": "Container and general cargo unloading and loading, yard stacking, daily reporting and vessel and truck coordination.",
+    "p3t": "Terminal operations in Bandar Abbas",
+    "p4": {
+      "imgAlt": "Freight train carrying containers",
+      "tag": "Transit / Sarakhs"
+    },
+    "p4d": "Unloading, loading and wagon interchange at the Turkmenistan border for transit cargo bound for Central Asia and vice versa.",
+    "p4t": "Rail transit via Sarakhs",
+    "p5": {
+      "imgAlt": "Grain silos beside farmland",
+      "tag": "Bulk / grains"
+    },
+    "p5d": "Moving grains, cement and minerals from vessel to warehouse and wagon/truck in compliance with hygiene and safety standards.",
+    "p5t": "Bulk cargo unloading and storage",
+    "p6": {
+      "imgAlt": "Business teams shaking hands after a deal",
+      "tag": "Trade / Iraq & neighbors"
+    },
+    "p6d": "Sourcing goods for the markets of Iran, Iraq and neighboring countries with document, payment and border logistics management.",
+    "p6t": "Goods sourcing & trade"
+  },
+  "schema": {
+    "organization": {
+      "description": "Specialized holding for international transport, trade and logistics with operating companies in Bandar Abbas, Sarakhs and Iraq.",
+      "name": "Human Sadid Bonyan Trade Holding"
+    }
+  },
+  "services": {
+    "cta": {
+      "desc": "Tell us your cargo type and route; a transport proposal is prepared within 24 business hours.",
+      "title": "Your need, our plan"
+    },
+    "go": "Go to the Daryadaran Tous page",
+    "go2": "Go to the Harmoniza Hormoz Arian page",
+    "go3": "Go to the Hami Hamrah Jonoub page",
+    "go4": "Go to the Sarakhs Logistics Center page",
+    "go5": "Go to the Naghel Al-Sud page",
+    "go6": "International trade law reference",
+    "hero": {
+      "sub": "A complete chain of supply-chain services; from cargo pickup at origin to final delivery and closing documents.",
+      "title": "Our Services"
+    },
+    "process": {
+      "title": "Services delivered in four steps"
+    },
+    "s1": "The optimal mix of road, rail and sea transport under one contract and one case owner; including covered, open, hopper and tank wagons and 20- and 40-foot and reefer containers.",
+    "s1t": "Multimodal transport",
+    "s2": "Container unloading and loading with gantry cranes and stackers, yard movement, stacking, RTMS reporting and shipping-line coordination in Bandar Abbas.",
+    "s2t": "Container terminal operations",
+    "s3": "Covered and yard storage for bulk, packaged and containerized cargo; inventory management, counting, repacking and inland distribution.",
+    "s3t": "Warehousing & storage",
+    "s4": "Rail and road unloading, loading and warehousing in the Sarakhs Free Zone with dual-gauge track, wagon interchange and direct access to the Turkmenistan border.",
+    "s4t": "Sarakhs Logistics Center",
+    "s5": "Import, export and sourcing of goods for the markets of Iran, Iraq and neighboring countries; including supplier search, price negotiation, inspection and trade documents.",
+    "s5t": "International trade & commerce",
+    "s6": "Setting Incoterms, transport and purchase contracts, choosing ICC insurance cover, HS classification and planning import/export customs procedures.",
+    "s6t": "Contract, customs & insurance consulting",
+    "special": {
+      "desc": "Some cargoes need special planning; our operations team designs a dedicated execution method for each:",
+      "eyebrow": "Special cargoes",
+      "f1": "IMDG/ADR/RID classification, labeling and packaging per regulations",
+      "f1t": "Dangerous goods:",
+      "f2": "Reefer containers and insulated wagons with temperature logging throughout the journey",
+      "f2t": "Temperature-sensitive cargo:",
+      "f3": "Route planning, transit permits and suitable loading equipment",
+      "f3t": "Heavy and out-of-gauge cargo:",
+      "f4": "Full-value insurance cover, sealing and route monitoring",
+      "f4t": "High-value goods:",
+      "imgAlt": "Heavy freight trucks on a highway",
+      "title": "For cargo that needs extra care"
+    }
+  },
+  "sk": {
+    "corr": {
+      "eyebrow": "Connections",
+      "title": "Corridors around Sarakhs"
+    },
+    "f": {
+      "g1": "1. Applicant information",
+      "g2": "2. Cargo and services requested"
+    },
+    "f1": "hectares of free zone area",
+    "f2": "wagons of daily interchange",
+    "f3": "% share of the country's border rail transit (estimate)",
+    "f4": "hectares of container complex under commissioning",
+    "field": {
+      "cargoTypePh": "e.g. construction materials, grains, equipment",
+      "dateFrom": "Expected date",
+      "days": "Storage period (days)",
+      "notesPh": "Final origin/destination, wagon or truck number, constraints, etc.",
+      "service": "Service type",
+      "transportMode": "Entry / exit mode"
+    },
+    "form": {
+      "eyebrow": "Request",
+      "sub": "For Sarakhs transit and storage cargo; reply within 24 business hours.",
+      "submit": "Submit Sarakhs request",
+      "title": "Unloading, loading and storage request form"
+    },
+    "geo": {
+      "badge": "150 km east of Mashhad — Iran–Turkmenistan border",
+      "desc": "The Sarakhs Free Trade-Industrial Zone lies about 150 km east of Mashhad, adjacent to the Iran–Turkmenistan border. Having started operations in the 1990s and upgraded to free-zone status through 1402 (2023) approvals and 1403 (2024) regulations, the zone covers about 5,290 hectares and is the main hub of Iranian trade with Turkmenistan and Central Asian countries. Estimates show that the bulk of Iran's rail transit passes through the Sarakhs border.",
+      "eyebrow": "Strategic location",
+      "f1": "Dual-gauge 1520/1435 mm rail and about 42 km of internal railway",
+      "f2": "Daily interchange of up to 400 wagons at Sarakhs station",
+      "f3": "An approximately 18-hectare container complex under commissioning",
+      "f4": "Road access to the Sarakhs–Serdar border and onward to Turkmenistan and Uzbekistan",
+      "imgAlt": "Freight train crossing an international rail route",
+      "title": "Sarakhs; the transit gateway to Central Asia"
+    },
+    "hero": {
+      "cta": "Request unloading / loading / storage",
+      "sub": "Northeast Iran's rail and road bottleneck; unloading, loading and warehousing at the Sarakhs border transit hub.",
+      "title": "Sarakhs Free Zone Logistics Center"
+    },
+    "linkLaws": "Transit and customs regulations",
+    "modeBoth": "Combined rail and road",
+    "modeRail": "Rail",
+    "modeRailRoad": "Rail and road",
+    "modeRoad": "Road",
+    "r1d": "Transit to Ashgabat and Mary, continuing to Uzbekistan",
+    "r1n": "Sarakhs – Serdar",
+    "r2d": "Export of goods to eastern Afghanistan",
+    "r2n": "Bajgiran – Farah",
+    "r3c": "North–South Corridor",
+    "r3d": "Cargo from India and Russia transiting toward Iran and the Persian Gulf",
+    "r3n": "Sarakhs rail station (INSTC)",
+    "r4c": "Iran's domestic network",
+    "r4d": "Connecting ports and central factories to the border",
+    "r4n": "Mashhad – Sarakhs (freeway)",
+    "s1": {
+      "d": "Wagon unloading and loading at zone stations, gauge interchange coordination and wagon–truck transfer.",
+      "t": "Rail operations"
+    },
+    "s2": {
+      "d": "Loading and unloading of inbound and outbound transit trucks with weighing and customs documents.",
+      "t": "Road operations"
+    },
+    "s3": {
+      "d": "Storage of inbound and outbound goods in covered warehouses and open yards until documents are complete.",
+      "t": "Warehousing"
+    },
+    "s4": {
+      "d": "Storage and movement of transit containers at the zone's container complex.",
+      "t": "Container center"
+    },
+    "s5": {
+      "d": "Transit coordination, goods declaration and issuance of transport documents for border crossing.",
+      "t": "Customs & documentation"
+    },
+    "s6": {
+      "d": "Cargo insurance coverage during storage and access control of warehouse yards.",
+      "t": "Insurance & security"
+    },
+    "stats": {
+      "eyebrow": "Key numbers",
+      "notice": "Source: Sarakhs Free Zone approvals and announcements and media coverage (2023–2025). All figures — especially the 75% transit share and the status of the container complex — must be reconciled with the latest official statistics before publication.",
+      "title": "Sarakhs border infrastructure"
+    },
+    "svc": {
+      "eyebrow": "Logistics center services",
+      "title": "Unloading, loading and storage in Sarakhs"
+    },
+    "svc1": "Unloading",
+    "svc2": "Loading",
+    "svc3": "Warehousing",
+    "svc4": "Wagon/truck transshipment",
+    "svc5": "Service package",
+    "th1": "Border / route",
+    "th2": "Destination country",
+    "th3": "Mode",
+    "th4": "Use case"
+  },
+  "terms": {
+    "hero": {
+      "sub": "By using this website you accept the following terms.",
+      "title": "Terms of Use"
+    },
+    "notice": "This is sample text and must be reviewed by legal counsel before publication.",
+    "s1": {
+      "p1": "Using the website and submitting requests through the forms means accepting these terms; if you disagree, please refrain from using the site.",
+      "title": "1. Acceptance of terms"
+    },
+    "s2": {
+      "p1": "The content of this website is for information only. Capacity figures, rates, routes and service conditions may change without prior notice; the basis of cooperation is the formal proforma invoice and the signed contract, not the website content.",
+      "title": "2. Content and accuracy of information"
+    },
+    "s3": {
+      "p1": "Submitting a request or inquiry on this site does not constitute a contract. Every cooperation becomes effective after capacity review, issuance of a formal proforma invoice and mutual agreement.",
+      "title": "3. Inquiries and contracts"
+    },
+    "s4": {
+      "p1": "The texts, design, logo and images of this website belong to Human Sadid Bonyan Trade Holding or their authorized holders; commercial reproduction without permission is prohibited. Images from free sources are governed by those sources' own licenses.",
+      "title": "4. Intellectual property"
+    },
+    "s5": {
+      "p1": "Links to third-party websites (shipping lines, payment services, maps, etc.) are provided for your convenience and we are not responsible for their content or terms.",
+      "title": "5. External links"
+    },
+    "s6": {
+      "p1": "To the extent permitted by law, the website's liability is limited to information provision, and damages arising from decisions based on the site's public content are not covered.",
+      "title": "6. Limitation of liability"
+    },
+    "s7": {
+      "p1": "We reserve the right to change these terms; the updated version is published on this page and the date of the last update will be announced.",
+      "title": "7. Changes to terms"
+    },
+    "s8": {
+      "p1": "For questions about these terms, use the Contact Us page or call 09153143647.",
+      "title": "8. Contact"
+    },
+    "toPrivacy": "Privacy Policy"
+  },
+  "vision": {
+    "cta": {
+      "desc": "Whether you are an importer, exporter or transit operator, your transport plan starts here.",
+      "title": "Join the network that builds the future"
+    },
+    "hero": {
+      "sub": "The path the holding has charted for its customers, partners and colleagues.",
+      "title": "Vision, Mission & Values"
+    },
+    "mission": {
+      "b1": "Full compliance with Incoterms, customs regulations and insurance requirements",
+      "b2": "Response to business requests within 24 hours",
+      "b3": "Continuous training of the operations team and HSE principles in the yards",
+      "desc": "Our mission is to facilitate our customers' international trade by providing multimodal transport, port operations and warehousing to the highest safety standards, with adherence to contractual commitments and transparent, continuous communication throughout the cargo's journey.",
+      "eyebrow": "Mission",
+      "title": "Safe, on-time and transparent transport for every shipment"
+    },
+    "pillars": {
+      "eyebrow": "Strategy",
+      "imgAlt": "Container ship at sea heading toward a port",
+      "p1": "Investing in wagon fleets, terminal equipment and warehouse space in step with growing demand.",
+      "p1t": "Operational capacity",
+      "p2": "Deepening expertise in international contracts, Incoterms, insurance and dispute resolution.",
+      "p2t": "Legal expertise",
+      "p3": "Attracting and retaining transport, customs and trade specialists with long-term motivation.",
+      "p3t": "Human capital",
+      "p4": "Expanding partnerships with shipping lines, railways and regional traders.",
+      "p4t": "International network",
+      "title": "Four pillars of sustainable growth"
+    },
+    "vision": {
+      "b1": "Expanding rail and multimodal corridors to Central Asia, the Middle East and beyond",
+      "b2": "Increasing the share of terminal and warehousing operations in Bandar Abbas and Sarakhs",
+      "b3": "Digitizing shipment tracking and cost transparency",
+      "desc": "By 2031 (1410 SH), we want Human Sadid Bonyan Trade Holding to become one of the region's most trusted international transport and trade networks — a name that importers, exporters and transit operators hand their cargo to without hesitation.",
+      "eyebrow": "Vision",
+      "title": "Iran's best trade bridge to global markets"
+    }
+  }
+}
