@@ -123,7 +123,7 @@
                 navLink('daryadaran', 'daryadaran.html', 'nav.daryadaran', 'دریاداران طوس') +
                 navLink('harmoniza', 'harmoniza.html', 'nav.harmoniza', 'هراز هرمز آرین') +
                 navLink('hami', 'hami.html', 'nav.hami', 'حامی همراه جنوب') +
-                navLink('naghel', 'naghel.html', 'nav.naghel', 'ناقل السودان') +
+                navLink('naghel', 'naghel.html', 'nav.naghel', 'ناقل الاسود') +
                 navLink('affiliated', 'affiliated.html', 'nav.affiliated', 'شرکت‌های وابسته') +
               '</ul>' +
             '</details>' +
@@ -183,7 +183,7 @@
           '<li><a href="daryadaran.html" data-i18n="nav.daryadaran">دریاداران طوس</a></li>' +
           '<li><a href="harmoniza.html" data-i18n="nav.harmoniza">هراز هرمز آرین</a></li>' +
           '<li><a href="hami.html" data-i18n="nav.hami">حامی همراه جنوب</a></li>' +
-          '<li><a href="naghel.html" data-i18n="nav.naghel">ناقل السودان</a></li>' +
+          '<li><a href="naghel.html" data-i18n="nav.naghel">ناقل الاسود</a></li>' +
           '<li><a href="affiliated.html" data-i18n="nav.affiliated">شرکت‌های وابسته</a></li>' +
           '<li><a href="sarakhs.html" data-i18n="nav.sarakhs">منطقه آزاد سرخس</a></li>' +
         '</ul>' +

@@ -418,6 +418,16 @@ html[lang="fa"] .eyebrow { letter-spacing: 0.05em; }
 
 .hero-inner { position: relative; z-index: 2; padding-block: clamp(3.5rem, 9vh, 6rem); max-width: 780px; }
 
+.hero-logo {
+  width: clamp(128px, 18vw, 176px);
+  margin: 0 auto clamp(1rem, 2.2vw, 1.6rem);
+  padding: 7px;
+  background: var(--white);
+  border-radius: 50%;
+  box-shadow: 0 14px 38px rgba(4, 15, 31, 0.38);
+}
+.hero-logo img { display: block; width: 100%; height: auto; border-radius: 50%; }
+
 .hero-eyebrow {
   display: inline-flex;
   align-items: center;

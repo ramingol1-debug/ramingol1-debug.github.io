@@ -357,7 +357,7 @@
     }
   },
   "faq": {
-    "a1": "Fill in the request form on the relevant company page (Daryadaran Tous for transport, Harmoniza Hormoz Arian for terminal, Hami Hamrah Jonoub for bulk, Naghel Al-Sud for trade), call 09153143647, or leave a message in the live chat. We reply within 24 business hours.",
+    "a1": "Fill in the request form on the relevant company page (Daryadaran Tous for transport, Harmoniza Hormoz Arian for terminal, Hami Hamrah Jonoub for bulk, Naghel Al-Aswad for trade), call 09153143647, or leave a message in the live chat. We reply within 24 business hours.",
     "a10": "Rates are quoted based on cargo type, weight/volume, route, equipment type (wagon, container, truck), season, port/terminal charges and Incoterms. The formal proforma invoice includes all cost items and becomes binding once you confirm it.",
     "a2": "Identity or company details (national ID or registration number), contact information, origin and destination, cargo type and weight, Incoterms, and a packing list and proforma invoice if available. For special cargoes, technical and insurance documents are also requested.",
     "a3": "Yes. Cargo insurance can be arranged under standard Institute Cargo Clauses (ICC A, B or C) for the value of the goods (CIF/CFR + 10%), and its conditions are included in the contract before execution. We recommend full-value cover for high-value shipments.",
@@ -653,7 +653,7 @@
       "c3": "Unloading, loading and warehousing of bulk cargo in Bandar Abbas: grains, sulfur, cement and minerals.",
       "c3t": "Hami Hamrah Jonoub",
       "c4": "Investment and trade of goods needed by Iran, Iraq and neighboring countries with a regional supply and distribution network.",
-      "c4t": "Naghel Al-Sud",
+      "c4t": "Naghel Al-Aswad",
       "c5": "Trade development with Pakistan, Turkmenistan, Uzbekistan, Turkey, the United Arab Emirates and Afghanistan.",
       "c6": "Rail and road unloading, loading and warehousing at Iran's main gateway to Central Asia, with dual-gauge rail and wagon interchange.",
       "c6t": "Sarakhs Free Zone Logistics Center",
@@ -1176,8 +1176,8 @@
       "title": "International Trade Laws | Educational library on Incoterms, customs, letters of credit and insurance"
     },
     "naghel": {
-      "description": "Naghel Al-Sud Company; trade and investment in goods needed by Iran, Iraq and neighboring countries. Requests for supply, sales or trade partnerships.",
-      "title": "Naghel Al-Sud | Trade with Iran, Iraq and neighboring countries"
+      "description": "Naghel Al-Aswad Company; trade and investment in goods needed by Iran, Iraq and neighboring countries. Requests for supply, sales or trade partnerships.",
+      "title": "Naghel Al-Aswad | Trade with Iran, Iraq and neighboring countries"
     },
     "news": {
       "description": "Articles and news on international transport, the Incoterms 2020 guide, the Sarakhs rail route, Bandar Abbas operations and trade with neighboring countries.",
@@ -1224,7 +1224,7 @@
     "home": "Home",
     "laws": "International Trade Laws",
     "more": "More",
-    "naghel": "Naghel Al-Sud",
+    "naghel": "Naghel Al-Aswad",
     "news": "News & Articles",
     "privacy": "Privacy Policy",
     "projects": "Projects",
@@ -1324,12 +1324,12 @@
     "hero": {
       "cta": "Request sourcing / partnership",
       "sub": "Investment and trade in goods needed by Iran, Iraq and regional countries; from sourcing to border delivery.",
-      "title": "Naghel Al-Sud — trade between Iran, Iraq and neighbors"
+      "title": "Naghel Al-Aswad — trade between Iran, Iraq and neighbors"
     },
     "intro": {
       "badge": "Iran–Iraq land borders",
-      "desc": "Naghel Al-Sud operates in the Iraqi market and neighboring countries, sourcing, exchanging and delivering the goods both sides of the border need — from foodstuffs and construction materials to industrial and petrochemical products. A network of trade partners in Iraq, Iran's western and eastern land borders and the group's logistics capability enable fast, trackable deals.",
-      "eyebrow": "About Naghel Al-Sud",
+      "desc": "Naghel Al-Aswad operates in the Iraqi market and neighboring countries, sourcing, exchanging and delivering the goods both sides of the border need — from foodstuffs and construction materials to industrial and petrochemical products. A network of trade partners in Iraq, Iran's western and eastern land borders and the group's logistics capability enable fast, trackable deals.",
+      "eyebrow": "About Naghel Al-Aswad",
       "f1": "Iranian exports to Iraq and import of goods needed in Iran",
       "f2": "Joint partnership and investment with traders and importers",
       "f3": "Border deals with reliable land transport, complete documents and daily follow-up",
@@ -1439,7 +1439,7 @@
     "go2": "Go to the Harmoniza Hormoz Arian page",
     "go3": "Go to the Hami Hamrah Jonoub page",
     "go4": "Go to the Sarakhs Logistics Center page",
-    "go5": "Go to the Naghel Al-Sud page",
+    "go5": "Go to the Naghel Al-Aswad page",
     "go6": "International trade law reference",
     "hero": {
       "sub": "A complete chain of supply-chain services; from cargo pickup at origin to final delivery and closing documents.",
