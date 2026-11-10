@@ -34,9 +34,8 @@
 
 <main id="main">
 
-  <section class="page-hero">
+  <section class="page-hero page-hero--center">
     <div class="container">
-      <div class="page-logo"><img src="assets/img/logos/darya-daran.jpg" alt="لوگوی شرکت حمل و نقل دریاداران طوس" data-i18n-alt="logo.daryadaran"></div>
       <nav class="breadcrumbs" aria-label="Breadcrumb">
         <ol>
           <li><a href="index.html" data-i18n="nav.home">خانه</a></li>
@@ -44,6 +43,7 @@
           <li><span aria-current="page" data-i18n="nav.daryadaran">دریاداران طوس</span></li>
         </ol>
       </nav>
+      <div class="page-logo"><img src="assets/img/logos/darya-daran.jpg" alt="لوگوی شرکت حمل و نقل دریاداران طوس" data-i18n-alt="logo.daryadaran"></div>
       <h1 data-i18n="dr.hero.title">شرکت حمل و نقل دریاداران طوس</h1>
       <p class="lead" data-i18n="dr.hero.sub">حمل‌ونقل چندوجهی زمینی، ریلی، جاده‌ای و دریایی؛ از مبدأ تا مقصد، بدون وقفه در زنجیره تأمین.</p>
       <div class="btn-row mt-1">
@@ -204,7 +204,7 @@
               </div>
               <div class="field">
                 <label for="d-reg" data-i18n="field.regId">کدملی / شماره ثبت</label>
-                <input id="d-reg" name="reg_id" type="text" required maxlength="20"
+                <input id="d-reg" name="reg_id" type="text" maxlength="20"
                        placeholder="کد ملی یا شماره ثبت شرکت" data-i18n-ph="field.regIdPh" dir="ltr">
                 <span class="field-error" aria-live="polite"></span>
               </div>
@@ -246,7 +246,7 @@
               </div>
               <div class="field">
                 <label for="d-incoterm" data-i18n="field.incoterms">اینکوترمز</label>
-                <select id="d-incoterm" name="incoterms" required>
+                <select id="d-incoterm" name="incoterms">
                   <option value="" data-i18n="field.choose">انتخاب کنید</option>
                   <option value="EXW">EXW</option>
                   <option value="FCA">FCA</option>

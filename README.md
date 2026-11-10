@@ -29,7 +29,7 @@ code. Deployable to any free static host.
 ├── daryadaran.html         # Daryadaran Tous — multimodal transport + freight form
 ├── harmoniza.html          # Harmoniza Hormoz Arian — container terminal + form
 ├── hami.html               # Hami Hamrah Jonoub — bulk operations + form
-├── naghel.html             # Naghel Al-Sud — Iraq trade + form
+├── naghel.html             # Naghel Al-Aswad — Iraq trade + form
 ├── affiliated.html         # Affiliated companies (6 countries) + form
 ├── sarakhs.html            # Sarakhs Free Zone logistics center + form
 ├── laws.html               # International Trade Laws (10 chapters, TOC, glossary)

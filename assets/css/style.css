@@ -428,6 +428,12 @@ html[lang="fa"] .eyebrow { letter-spacing: 0.05em; }
 }
 .hero-logo img { display: block; width: 100%; height: auto; border-radius: 50%; }
 
+.hero-inner-center { text-align: center; }
+.hero-inner-center .hero-eyebrow { margin-inline: auto; }
+.hero-inner-center .hero-sub { margin-inline: auto; }
+.hero-inner-center .btn-row { justify-content: center; }
+.hero-inner-center .hero-stats { justify-content: center; text-align: center; }
+
 .hero-eyebrow {
   display: inline-flex;
   align-items: center;
@@ -815,6 +821,11 @@ fieldset.group legend {
 .page-hero h1 { color: var(--white); position: relative; z-index: 1; margin-bottom: 0.4em; }
 .page-hero .lead { color: #c3d1e0; position: relative; z-index: 1; max-width: 760px; }
 .page-hero .breadcrumbs { position: relative; z-index: 1; }
+.page-hero--center { text-align: center; }
+.page-hero--center .breadcrumbs ol { justify-content: center; }
+.page-hero--center .lead { margin-inline: auto; }
+.page-hero--center .btn-row { justify-content: center; }
+.page-hero--center .page-logo { margin-inline: auto; }
 
 .breadcrumbs ol { display: flex; flex-wrap: wrap; gap: 0.45em; font-size: 0.87rem; align-items: center; }
 .breadcrumbs li { display: flex; align-items: center; gap: 0.45em; color: #9fb2c6; }
@@ -943,11 +954,11 @@ fieldset.group legend {
   margin-bottom: 1.15rem;
   box-shadow: 0 8px 26px rgba(4, 15, 31, 0.22);
 }
-.page-logo img { max-height: 82px; max-width: 230px; width: auto; height: auto; mix-blend-mode: multiply; }
+.page-logo img { max-height: 130px; max-width: 320px; width: auto; height: auto; mix-blend-mode: multiply; }
 
 @media (max-width: 560px) {
   .company-logo { height: 60px; }
-  .page-logo img { max-height: 64px; max-width: 180px; }
+  .page-logo img { max-height: 96px; max-width: 240px; }
 }
 
 /* ---------- 16. Gallery ---------------------------------------------------- */
@@ -1206,6 +1217,10 @@ fieldset.group legend {
   transform: translateY(8px);
 }
 .fab-top.is-show { opacity: 1; pointer-events: auto; transform: translateY(0); }
+
+@media (max-width: 768px) {
+  .fab-chat, .fab-telegram, .fab-whatsapp { display: none; }
+}
 
 /* ---------- 21. Reveal animations ---------------------------------------------- */
 .reveal {

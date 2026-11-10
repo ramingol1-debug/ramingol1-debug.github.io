@@ -105,7 +105,7 @@ window.SITE_CONFIG = {
   /* -------------------------------------------------------
    * Hero slider (royalty-free Unsplash imagery, WebP via CDN)
    * ----------------------------------------------------- */
-  /* Captions come from lang/*.json (keys home.hero.slide1..3) so that
+  /* Captions come from lang/*.json (keys home.hero.slide1..4) so that
      every visible string stays translatable. */
   heroSlides: [
     {
@@ -119,6 +119,10 @@ window.SITE_CONFIG = {
     {
       img: 'https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?auto=format&fit=crop&w=1920&q=75&fm=webp',
       captionKey: 'home.hero.slide3'
+    },
+    {
+      img: 'https://images.pexels.com/photos/12196578/pexels-photo-12196578.jpeg?auto=compress&cs=tinysrgb&w=1920&fm=webp',
+      captionKey: 'home.hero.slide4'
     }
   ]
 };
